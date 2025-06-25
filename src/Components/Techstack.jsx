@@ -19,7 +19,7 @@ import nodejs from '../assets/images/node-js.png';
 import xampp from '../assets/images/xampp.png';
 import npm from '../assets/images/Npm.png';
 import vsCode from '../assets/images/vs-code.png';
-import capcut from '../assets/images/Capcut.png';
+import capcut from '../assets/images/CapCut.png';
 import aspnet from '../assets/images/asp-net.png';
 import trello from '../assets/images/trello.png';
 import visualStudio from '../assets/images/visual-studio.png';
