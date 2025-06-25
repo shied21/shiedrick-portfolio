@@ -1,0 +1,13 @@
+@import "tailwindcss";
+
+
+:root {
+  font-family: 'Instrument Sans', system-ui, sans-serif;
+  line-height: 1.5;
+  font-weight: 400;
+}
+
+html {
+  scroll-behavior: smooth;
+  scroll-padding: 100px;
+}
